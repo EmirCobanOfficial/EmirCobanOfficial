@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Emir COBAN</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
 
 - 🌱 I’m currently learning **C#**
