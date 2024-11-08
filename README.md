@@ -7,9 +7,9 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#**,**SQL**
 
-- 💬 Ask me about **C#**
+- 💬 Ask me about **C#**,**SQL**
 
 - 📫 How to reach me **emircobanoffical@gmail.com**
 
