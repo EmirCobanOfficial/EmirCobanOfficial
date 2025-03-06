@@ -1,5 +1,3 @@
-![.NET & Web Development]()
-
 <h1 align="center">Hi 👋, I'm Emir ÇOBAN</h1>
 <h3 align="center">Full Stack Web Developer | ASP.NET Core & Angular Enthusiast</h3>
 
