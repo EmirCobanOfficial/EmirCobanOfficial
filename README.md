@@ -1,4 +1,4 @@
-![.NET & Web Development](https://intellitect.com/wp-content/uploads/2021/03/NET-Essential-C-Sharp-9-banner-1024x256.png)
+![.NET & Web Development]()
 
 <h1 align="center">Hi 👋, I'm Emir ÇOBAN</h1>
 <h3 align="center">Full Stack Web Developer | ASP.NET Core & Angular Enthusiast</h3>
