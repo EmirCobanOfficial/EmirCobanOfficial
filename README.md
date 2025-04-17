@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋, Ben Emir ÇOBAN</h1>
 <h3 align="center">Gelişmekte Olan Bir Full Stack Web Developer Adayıyım</h3>
 
-- 🌱 Şu anda öğreniyorum: *HTML, **CSS, **Bootstrap, **JavaScript, **React, **ASP.NET Core, **Web API*
+- 🌱 Şu anda öğreniyorum: **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **React**, **ASP.NET Core**, **Web API**
 - 💻 Evde kendi projelerimle ve stajımla kendimi geliştirmeye çalışıyorum
 - ✍️ İlk 5 ay *C#* üzerine çalıştım, şimdi web teknolojilerine odaklandım
 - 🔍 Yeni şeyler öğrenmeyi, araştırmayı ve kendimi geliştirmeyi çok seviyorum
