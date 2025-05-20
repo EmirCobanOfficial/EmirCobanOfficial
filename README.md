@@ -7,9 +7,9 @@
 
 ---
 
-- 🔭 Şu anda öğreniyorum: **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **React**, **ASP.NET Core**, **Web API**
-- 💻 Evde bireysel projeler ve stajlarla kendimi geliştiriyorum
-- 💡 *C#* ile başladım, şimdi modern web teknolojilerine odaklanıyorum
+- 🔭 Şu anda üzerinde çalıştığım teknolojiler: **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **React**, **ASP.NET Core**, **Web API**
+- 💻 Bireysel projeler ve staj deneyimleriyle kendimi geliştiriyorum
+- 💡 Yazılım yolculuğuma *C#* ile başladım, şimdi modern web teknolojilerine odaklanıyorum
 - 🧠 Araştırmayı, öğrenmeyi ve sürekli gelişmeyi seviyorum
 - 📬 Bana ulaş: [emircobanoffical@gmail.com](mailto:emircobanoffical@gmail.com)
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">🌐 Sosyal Medya & İletişim</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/emir-%C3%A7oban-4980532a4/" target="_blank">
+  <a href="https://www.linkedin.com/in/emircoban/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/xemircobanx" target="_blank">
@@ -61,7 +61,7 @@
 ---
 
 <h3 align="center">💖 Beni Destekleyin</h3>
-<p align="center">Eğer projelerimi beğeniyorsanız ve gelişimimi desteklemek isterseniz, sponsor olabilirsiniz </p>
+<p align="center">Eğer projelerimi faydalı buluyorsanız, desteklerinizi beklerim!</p>
 
 <p align="center">
   <a href="https://github.com/sponsors/EmirCobanOfficial" target="_blank">
