@@ -17,7 +17,7 @@
 
 <h3 align="left">🌐 Sosyal Medya & İletişim</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/emircoban/" target="_blank">
+  <a href="https://www.linkedin.com/in/emircoban/](https://www.linkedin.com/in/emir-%C3%A7oban-4980532a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/xemircobanx" target="_blank">
