@@ -2,7 +2,7 @@
 <h3 align="center">🎯 Full Stack Web Developer Yolculuğunda Kararlı Bir Öğrenciyim / A Dedicated Student on the Full Stack Developer Journey</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emircobanofficial&label=Ziyaretçi+Sayısı&color=0e75b6&style=flat" alt="profil görüntülenme sayısı" />
+  <img src="https://komarev.com/ghpvc/?username=emircobanofficial&label=Profile+Visit&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
