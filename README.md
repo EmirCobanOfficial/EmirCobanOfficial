@@ -9,13 +9,13 @@
 
 ## 🧠 Hakkımda  |  About Me
 
-- 🔭 Şu anda üzerinde çalıştığım teknolojiler: **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **React**, **ASP.NET Core**, **Web API**  
+- 🔭 Şu anda üzerinde çalıştığım teknolojiler: **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **React**, **C#**, **ASP.NET Core**, **Web API**  
 - 💻 Bireysel projeler ve staj deneyimleriyle kendimi geliştiriyorum  
 - 💡 Yazılım yolculuğuma *C#* ile başladım, şimdi modern web teknolojilerine odaklanıyorum  
 - 🧠 Araştırmayı, öğrenmeyi ve sürekli gelişmeyi seviyorum  
 - 📬 Bana ulaş: [emircobanofficial@gmail.com](mailto:emircobanofficial@gmail.com)  
 
-- 🔭 Currently working with: **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **React**, **ASP.NET Core**, **Web API**  
+- 🔭 Currently working with: **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **React**, **C#**, **ASP.NET Core**, **Web API**  
 - 💻 Improving myself through personal projects and internship experiences  
 - 💡 Started my software journey with *C#*, now focusing on modern web technologies  
 - 🧠 Passionate about learning, researching, and constant self-improvement  
@@ -39,18 +39,18 @@
 ## 🛠️ Kullandığım ve Öğrendiğim Teknolojiler  |  Technologies I Use & Learn
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="ASP.NET Core"/>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub İstatistikleri | GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emircobanofficial&show_icons=true&theme=radical&locale=en" alt="General Statistics" />
