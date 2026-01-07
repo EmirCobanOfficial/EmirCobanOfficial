@@ -1,84 +1,118 @@
-<h1 align="center">👋 Merhaba, Ben Emir ÇOBAN | Hello, I'm Emir ÇOBAN</h1>
-<h3 align="center">🎯 Full Stack Web Developer Yolculuğunda Kararlı Bir Öğrenciyim | A Dedicated Student on the Full Stack Developer Journey</h3>
+<h1 align="center">Hi 👋, I'm Emir Çoban</h1>
+<h3 align="center">Junior Full-Stack Developer | React & ASP.NET Core</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emircobanofficial&label=Profile+Visit&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-## 🧠 Hakkımda  |  About Me
-
-- 🔭 Şu anda üzerinde çalıştığım teknolojiler: **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **React**, **C#**, **ASP.NET Core**, **Web API**  
-- 💻 Bireysel projeler ve staj deneyimleriyle kendimi geliştiriyorum  
-- 💡 Yazılım yolculuğuma *C#* ile başladım, şimdi modern web teknolojilerine odaklanıyorum  
-- 🧠 Araştırmayı, öğrenmeyi ve sürekli gelişmeyi seviyorum  
-- 📬 Bana ulaş: [emircobanofficial@gmail.com](mailto:emircobanofficial@gmail.com)  
-
-- 🔭 Currently working with: **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **React**, **C#**, **ASP.NET Core**, **Web API**  
-- 💻 Improving myself through personal projects and internship experiences  
-- 💡 Started my software journey with *C#*, now focusing on modern web technologies  
-- 🧠 Passionate about learning, researching, and constant self-improvement  
-- 📬 Contact me: [emircobanofficial@gmail.com](mailto:emircobanofficial@gmail.com)
-
----
-
-## 🌐 Sosyal Medya & İletişim  |  Social Media & Contact
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/emir-%C3%A7oban-4980532a4/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/emir-%C3%A7oban-4980532a4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://instagram.com/xemircobanx" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="mailto:emircobanofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Kullandığım ve Öğrendiğim Teknolojiler  |  Technologies I Use & Learn
+## 👨‍💻 About Me
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="ASP.NET Core"/>
+Junior Full-Stack Developer focused on building modern, scalable, and user-focused web applications.
+
+I started my software development journey with **C#** and later specialized in **web development**, working on both front-end and back-end technologies. I actively build personal projects to improve my problem-solving skills and gain real-world development experience.
+
+I am especially interested in **full-stack development**, clean architecture, and building maintainable systems.
+
+---
+
+## 🛠 Tech Stack
+
+**Front-End**
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Bootstrap
+
+**Back-End**
+- ASP.NET Core
+- RESTful Web APIs
+- C#
+
+**Tools & Practices**
+- Git & GitHub
+- Postman
+- MVC Architecture
+- Responsive Web Design
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce Web Application
+Full-stack e-commerce platform built with **React** and **ASP.NET Core**.
+- RESTful API architecture
+- Product, order, and user management
+- Admin panel with role-based authorization
+- Responsive and modern UI
+
+🔗 *Repository link*
+
+---
+
+### 🎬 Movie Application
+A modern movie listing application developed using **React**.
+- External API integration
+- Dynamic search and filtering
+- Responsive user interface
+- Clean component-based structure
+
+🔗 *Repository link*
+
+---
+
+### 📝 Blog Website
+Blog platform built with **ASP.NET Core Web API**.
+- CRUD operations
+- Authentication & authorization
+- RESTful backend design
+- Scalable project structure
+
+🔗 *Repository link*
+
+---
+
+## 🎯 What I’m Looking For
+
+- Junior / Entry-Level Software Developer positions  
+- Full-Stack or Back-End focused roles  
+- Opportunities to work on real-world, scalable applications  
+- Teams that value clean code and continuous learning  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emircobanofficial&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircobanofficial&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📊 GitHub İstatistikleri | GitHub Statistics
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emircobanofficial&show_icons=true&theme=radical&locale=en" alt="General Statistics" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircobanofficial&layout=compact&theme=radical&locale=en" alt="Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emircobanofficial&theme=radical" alt="Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=emircobanofficial&theme=radical&no-frame=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Rozetleri  |  GitHub Trophies
+## 📬 Contact
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emircobanofficial&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
+- 📧 Email: **emircobanofficial@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/emir-çoban](https://www.linkedin.com/in/emir-%C3%A7oban-4980532a4/)
 
 ---
 
-## 💖 Beni Destekleyin  |  Support Me
-
-<p align="center">Eğer projelerimi faydalı buluyorsanız, desteklerinizi beklerim!  
-If you find my projects useful, feel free to support me!</p>
-
-<p align="center">
-  <a href="https://github.com/sponsors/EmirCobanOfficial" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Sponsor%20Ol-Destek%20Verin-%23ff69b4?style=for-the-badge&logo=githubsponsors" alt="GitHub Sponsors Badge">
-  </a>
-</p>
+⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
