@@ -91,19 +91,11 @@ Blog platform built with **ASP.NET Core Web API**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emircobanofficial&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emircobanofficial&show_icons=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircobanofficial&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emircobanofficial&theme=radical&no-frame=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircobanofficial&layout=compact" />
 </p>
 
 ---
