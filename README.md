@@ -44,40 +44,6 @@ I am especially interested in **full-stack development**, clean architecture, an
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 E-Commerce Web Application
-Full-stack e-commerce platform built with **React** and **ASP.NET Core**.
-- RESTful API architecture
-- Product, order, and user management
-- Admin panel with role-based authorization
-- Responsive and modern UI
-
-🔗 *Repository link*
-
----
-
-### 🎬 Movie Application
-A modern movie listing application developed using **React**.
-- External API integration
-- Dynamic search and filtering
-- Responsive user interface
-- Clean component-based structure
-
-🔗 *Repository link*
-
----
-
-### 📝 Blog Website
-Blog platform built with **ASP.NET Core Web API**.
-- CRUD operations
-- Authentication & authorization
-- RESTful backend design
-- Scalable project structure
-
-🔗 *Repository link*
-
----
 
 ## 🎯 What I’m Looking For
 
