@@ -57,11 +57,11 @@ I am especially interested in **full-stack development**, clean architecture, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmirCobanOfficial&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EmirCobanOfficial&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirCobanOfficial&layout=compact" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EmirCobanOfficial&layout=compact&theme=tokyonight" />
 </p>
 
 ---
