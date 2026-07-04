@@ -2,7 +2,7 @@
 <h3 align="center">Junior Front-End Developer · Software Developer</h3>
 
 <p align="center">
-  Building clean, responsive, and user-friendly web interfaces with React and modern JavaScript.
+  Junior Front-End Developer passionate about building modern, responsive web applications with JavaScript and React. Continuously learning and creating personal projects.
 </p>
 
 <p align="center">
