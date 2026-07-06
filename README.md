@@ -87,8 +87,16 @@ A movie discovery app built with **React**, **Vite**, and **Bootstrap** that fet
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EmirCobanOfficial&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="Emir's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirCobanOfficial&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmirCobanOfficial&theme=radical" alt="Emir's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EmirCobanOfficial&theme=radical" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmirCobanOfficial&theme=radical&utcOffset=3" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=EmirCobanOfficial&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
