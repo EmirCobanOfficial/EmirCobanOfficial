@@ -2,6 +2,10 @@
 <h3 align="center">Front-End & Full-Stack Developer · Software Developer</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EmirCobanOfficial&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
   Front-end developer building modern, responsive web apps with JavaScript & React — and increasingly full-stack with Node.js, Express, and SQL Server. I turn ideas into working, well-documented projects.
 </p>
 
