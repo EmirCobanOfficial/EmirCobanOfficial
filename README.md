@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Emir Çoban 👋</h1>
-<h3 align="center">Front-End & Full-Stack Developer · Software Developer</h3>
+<h3 align="center">Full-Stack Developer · C# / .NET · Node.js · React · SQL Server</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EmirCobanOfficial&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  Front-end developer building modern, responsive web apps with JavaScript & React — and increasingly full-stack with Node.js, Express, and SQL Server. I turn ideas into working, well-documented projects.
+  Full-stack developer working across the whole stack — <b>C# / .NET</b> desktop applications, <b>Node.js + Express</b> back ends, <b>React</b> front ends, and <b>SQL Server</b> databases. I turn ideas into working, well-documented, deployed projects.
 </p>
 
 <p align="center">
@@ -25,39 +25,58 @@
 
 ## 👨‍💻 About Me
 
-I build responsive, user-friendly interfaces with **React** and modern **JavaScript**, and I've grown into **full-stack** development — designing **Node.js + Express** back ends backed by **SQL Server (MSSQL)** databases.
+I work on both ends of the stack. On the **back end** I build **Node.js + Express** services and **C# / .NET** desktop applications, both backed by **SQL Server (MSSQL)**. On the **front end** I build responsive interfaces with **React** and modern **JavaScript**.
 
-- 🌱 I ship **real, documented projects** — from front-end apps to full-stack services.
+- 🖥️ **Desktop + Web** — C# WinForms applications with relational databases, alongside modern web apps.
+- 🌱 I ship **real, documented projects** — several are live in production, not just demos.
 - 🛡️ I care about **clean repositories**: environment-based config, CI pipelines, branch protection, and clear docs.
 - 🎯 Readable code and interfaces that work well on every screen size.
 
 ---
 
+## 🎓 Education
+
+**Bursa Uludağ University** — Gemlik Asım Kocabıyık Vocational School
+*Computer Programming (Associate Degree)* · 2026 – 2028
+English Preparatory Year · 2025 – 2026
+
+---
+
 ## 🛠️ Tech Stack
 
-**Languages & Markup**
+**Languages**
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Back-End & Desktop**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-A91E50?style=for-the-badge&logo=ejs&logoColor=white)
+
+**Databases**
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Front-End**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Back-End**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 **CI/CD & Version Control**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 > Beyond code, I follow **professional repo practices** — `.env` config, CI pipelines, branch protection, and responsive design across devices.
 
@@ -71,6 +90,12 @@ A **TÜBİTAK 4006-B supported** interactive map of Türkiye's UNESCO World Heri
 
 `Node.js` · `Express` · `MSSQL` · `JavaScript` · `Google Maps API`
 
+### [🤖 Discord Bot with Web Dashboard](https://github.com/EmirCobanOfficial/WEB-LISANS-2025-2027)
+
+A modular Discord bot managed through a **web control panel**. Includes role & channel management, a warning system with automated punishments, levelling, economy, reaction roles, anti-raid protection, ticketing, invite tracking, and server backup/restore — all configurable from the browser.
+
+`Node.js` · `Discord.js` · `EJS` · `Web Dashboard`
+
 ### [🎬 React Film Explorer](https://github.com/EmirCobanOfficial/react-film-explorer)
 
 A movie discovery app built with **React**, **Vite**, and **Bootstrap** that fetches live data from the TMDB API — search for movies, view details, and manage a personal watchlist with light/dark theming and a fully responsive layout.
@@ -79,12 +104,19 @@ A movie discovery app built with **React**, **Vite**, and **Bootstrap** that fet
 
 `React` · `Vite` · `JavaScript` · `Bootstrap` · `Responsive Design`
 
+### [♟️ Chess & Turkish Draughts Bot](https://github.com/EmirCobanOfficial/chess-bot-turkish-draughts)
+
+A **Python** game bot with a graphical interface and position-analysis engine, covering both chess and Turkish draughts.
+
+`Python` · `Game AI` · `GUI`
+
 ---
 
 ## 🌐 Live Projects
 
 - **[Demirci Tennis Club](https://demircitenis.online/)** — Court reservations and tennis-course information for a local tennis club in Demirci.
 - **[VaultKeys](https://vaultkeys.shop/)** — An online store for digital products & license keys.
+- **[React Film Explorer](https://react-film-explorer.vercel.app)** — TMDB-powered movie discovery app.
 
 ---
 
@@ -107,7 +139,7 @@ A movie discovery app built with **React**, **Vite**, and **Bootstrap** that fet
 
 ## 🎯 What I'm Looking For
 
-- **Front-End / Full-Stack Developer** roles (junior / entry-level)
+- **Full-Stack / Back-End / Front-End Developer** roles (junior / entry-level) and internships
 - Opportunities to grow while contributing to real projects
 - Teams that value clean code, learning, and collaboration
 
