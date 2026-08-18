@@ -84,18 +84,6 @@ English Preparatory Year · 2025 – 2026
 
 ## 🚀 Featured Projects
 
-### [🗺️ UNESCO Heritage Turkey](https://github.com/EmirCobanOfficial/unesco-heritage-turkey)
-
-A **TÜBİTAK 4006-B supported** interactive map of Türkiye's UNESCO World Heritage sites. A **full-stack** application: a static front-end (Google Maps + Web Speech API) powered by a **Node.js + Express** backend with **SQL Server (MSSQL)** for a comment & rating system. Engineered as a professional open-source repo — `.env` config, CI, branch protection, and MIT license.
-
-`Node.js` · `Express` · `MSSQL` · `JavaScript` · `Google Maps API`
-
-### [🤖 Discord Bot with Web Dashboard](https://github.com/EmirCobanOfficial/WEB-LISANS-2025-2027)
-
-A modular Discord bot managed through a **web control panel**. Includes role & channel management, a warning system with automated punishments, levelling, economy, reaction roles, anti-raid protection, ticketing, invite tracking, and server backup/restore — all configurable from the browser.
-
-`Node.js` · `Discord.js` · `EJS` · `Web Dashboard`
-
 ### [🎬 React Film Explorer](https://github.com/EmirCobanOfficial/react-film-explorer)
 
 A movie discovery app built with **React**, **Vite**, and **Bootstrap** that fetches live data from the TMDB API — search for movies, view details, and manage a personal watchlist with light/dark theming and a fully responsive layout.
@@ -103,12 +91,6 @@ A movie discovery app built with **React**, **Vite**, and **Bootstrap** that fet
 🌐 **Live demo:** [react-film-explorer.vercel.app](https://react-film-explorer.vercel.app)
 
 `React` · `Vite` · `JavaScript` · `Bootstrap` · `Responsive Design`
-
-### [♟️ Chess & Turkish Draughts Bot](https://github.com/EmirCobanOfficial/chess-bot-turkish-draughts)
-
-A **Python** game bot with a graphical interface and position-analysis engine, covering both chess and Turkish draughts.
-
-`Python` · `Game AI` · `GUI`
 
 ---
 
