@@ -6,6 +6,12 @@
 </p>
 
 <p align="center">
+  <a href="https://hub.xerj.org/contributors/EmirCobanOfficial">
+    <img src="https://hub.xerj.org/contributors/EmirCobanOfficial/badge.svg" alt="XERJ Corpus Hub contributor" />
+  </a>
+</p>
+
+<p align="center">
   Full-stack developer working across the whole stack — <b>C# / .NET</b> desktop applications, <b>Node.js + Express</b> back ends, <b>React</b> front ends, and <b>SQL Server</b> databases. I turn ideas into working, well-documented, deployed projects.
 </p>
 
