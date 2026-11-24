@@ -135,7 +135,7 @@ A movie discovery app built with **React**, **Vite**, and **Bootstrap** that fet
 
 ## 📬 Contact
 
-- 📧 **Email:** emircobanofficial@gmail.com
+- 📧 **Email:** emircobanoffical@gmail.com
 - 💼 **LinkedIn:** [emir-çoban](https://www.linkedin.com/in/emir-%C3%A7oban-4980532a4/)
 
 ---
